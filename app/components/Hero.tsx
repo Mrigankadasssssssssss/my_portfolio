@@ -19,7 +19,7 @@ export function Hero() {
       />
         </h1>
         <h1 className="text-4xl lg:text-6xl font-normal mt-3 ">
-          I am a web developer working and living in India,Kolkata.
+          I am a web developer working and living in Kolkata,India.
         </h1>
 
         <a
